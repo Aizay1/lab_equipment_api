@@ -245,7 +245,3 @@ db/seeds.rb          Sample data (4 / 8 / 5 records)
 curl_tests.txt       API test commands and responses
 ```
 
-## Repository
-
-<!-- Replace with your GitHub URL before submission -->
-GitHub: `https://github.com/YOUR_USERNAME/lab-equipment-api`
