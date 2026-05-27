@@ -242,6 +242,5 @@ app/controllers/     Categories, Equipment, MaintenanceRecords
 db/migrate/          Schema migrations with indexes and foreign keys
 db/schema.rb         Current database structure
 db/seeds.rb          Sample data (4 / 8 / 5 records)
-curl_tests.txt       API test commands and responses
 ```
 
